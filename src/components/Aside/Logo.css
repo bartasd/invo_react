@@ -1,0 +1,17 @@
+.logo{
+    display: flex;
+    width: 50%;
+    min-width: 120px;
+    margin-top: 20px;
+    margin-left: 20px;
+    gap: 5px
+}
+
+.logo > img{
+    width: 40px;
+    height: 40px;
+}
+
+.logo > h1{
+    font-size: 32px;
+}

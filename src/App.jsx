@@ -1,6 +1,6 @@
 import { Header } from "./components/Header.jsx"
 import { Main } from "./components/Main.jsx"
-import { Aside } from "./components/Aside.jsx"
+import { Aside } from "./components/Aside/Aside.jsx"
 
 function App() {
   return (

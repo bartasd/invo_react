@@ -1,0 +1,29 @@
+.navigation > div{
+    border-radius: 10px;
+    display: flex;
+    height: 40px;
+    font-size: 32px;
+    align-items: center;
+    gap: 5px;
+    color: #444;
+}
+
+.navigation > div:hover{
+    background-color: rgb(25, 159, 192);
+}
+
+
+.navigation > div:hover p{
+    color: white;
+}
+.navigation p{
+    font-size: 14px;
+}
+
+.navigation i{
+    margin-left: 10px;
+}
+
+.logOut{
+    margin-top: 90px;
+}
